@@ -1,0 +1,45 @@
+body{background: #d7b9f0;
+}
+
+{"banner"  src="banner.jpg">
+}
+
+.imagem2{
+width: 100px;
+height: 100px;
+}
+
+h1 {
+   text-align:center;
+   color: rgb(145, 107, 180);
+}
+   em strong {color:rgb(123, 34, 206)}  
+
+#missao {font-size: 20px; text-align:center;
+}
+
+p {text-align:center;
+   color:rgb(124, 81, 167)7);
+}
+
+em strong {color:blueviolet}
+
+.itens {
+   list-style:none;
+   content:"&#936";
+   font-size: 15px;
+
+}
+
+.elementos {
+   list-style:none;
+   content: "&#10003";
+}
+
+ul{
+   display:inline-block;
+   vertical-align: top;
+   margin: 15px;
+   }
+
+  
